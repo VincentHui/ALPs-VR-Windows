@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SMASHEDCRAB-TOM</Machine>
+    <WindowsUser>Thomas</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Master|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>9826a002-6178-422a-a2de-323524b37d89</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\obj\ARM\Master\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\bin\ARM\Master\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\bin\ARM\Master\Template.exe">
+      <PackagePath>Template.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\Assembly-CSharp-firstpass.dll">
+      <PackagePath>Assembly-CSharp-firstpass.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\Assembly-CSharp.dll">
+      <PackagePath>Assembly-CSharp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\Assembly-UnityScript-firstpass.dll">
+      <PackagePath>Assembly-UnityScript-firstpass.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\Boo.Lang.dll">
+      <PackagePath>Boo.Lang.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\UnityEngine.Analytics.dll">
+      <PackagePath>UnityEngine.Analytics.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\UnityEngine.dll">
+      <PackagePath>UnityEngine.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\UnityEngine.Networking.dll">
+      <PackagePath>UnityEngine.Networking.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\UnityEngine.UI.dll">
+      <PackagePath>UnityEngine.UI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\Players\WindowsPhone81\ARM\Master\UnityEngineProxy.dll">
+      <PackagePath>UnityEngineProxy.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\WinRTLegacy.dll">
+      <PackagePath>WinRTLegacy.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\Players\WindowsPhone81\ARM\Master\BridgeInterface.dll">
+      <PackagePath>BridgeInterface.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\Players\WindowsPhone81\ARM\Master\UnityEngineDelegates.dll">
+      <PackagePath>UnityEngineDelegates.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\Players\WindowsPhone81\ARM\Master\UnityPlayer.dll">
+      <PackagePath>UnityPlayer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\Players\WindowsPhone81\ARM\Master\BridgeInterface.winmd">
+      <PackagePath>BridgeInterface.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\Players\WindowsPhone81\ARM\Master\UnityEngineDelegates.winmd">
+      <PackagePath>UnityEngineDelegates.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\Players\WindowsPhone81\ARM\Master\UnityPlayer.winmd">
+      <PackagePath>UnityPlayer.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\Players\WindowsPhone81\ARM\Master\WinRTBridge.winmd">
+      <PackagePath>WinRTBridge.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\Assets\AppIcon.scale-240.png">
+      <PackagePath>Assets\AppIcon.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\Assets\MediumTile.scale-240.png">
+      <PackagePath>Assets\MediumTile.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\Assets\SmallTile.scale-240.png">
+      <PackagePath>Assets\SmallTile.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\Data\mainData">
+      <PackagePath>Data\mainData</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\Data\Resources\unity default resources">
+      <PackagePath>Data\Resources\unity default resources</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\Data\Resources\unity_builtin_extra">
+      <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\Data\managedAssemblies.txt">
+      <PackagePath>Data\managedAssemblies.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\Data\resources.assets">
+      <PackagePath>Data\resources.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\Data\sharedassets0.assets">
+      <PackagePath>Data\sharedassets0.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\bin\ARM\Master\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\bin\ARM\Master\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\bin\ARM\Master\Template.xr.xml">
+      <PackagePath>Template.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Downloads\AlpsTest\builds\AlpsTest\bin\ARM\Master\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

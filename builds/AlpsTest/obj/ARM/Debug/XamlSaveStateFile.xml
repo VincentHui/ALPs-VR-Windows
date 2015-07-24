@@ -1,0 +1,19 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\thomas\downloads\alpstest\builds\alpstest\assembly-csharp-firstpass.dll" HashGuid="43bf8e27-8898-339e-6663-88631fb387f6" />
+    <ReferenceAssembly PathName="c:\users\thomas\downloads\alpstest\builds\alpstest\assembly-csharp.dll" HashGuid="bcc3f007-bf5b-930f-7d41-dc5704d4df6f" />
+    <ReferenceAssembly PathName="c:\users\thomas\downloads\alpstest\builds\alpstest\assembly-unityscript-firstpass.dll" HashGuid="e2c39f82-3236-47f7-ccbd-0ca2bf87f2a9" />
+    <ReferenceAssembly PathName="c:\users\thomas\downloads\alpstest\builds\alpstest\boo.lang.dll" HashGuid="413448fa-2528-b267-c48b-a2fc09457b51" />
+    <ReferenceAssembly PathName="c:\users\thomas\downloads\alpstest\builds\players\windowsphone81\arm\debug\bridgeinterface.winmd" HashGuid="29d1480c-e208-3aeb-3e63-d35a361e364e" />
+    <ReferenceAssembly PathName="c:\users\thomas\downloads\alpstest\builds\alpstest\unityengine.analytics.dll" HashGuid="6b473d45-0fdb-0e16-15c8-0c67b5ea38e6" />
+    <ReferenceAssembly PathName="c:\users\thomas\downloads\alpstest\builds\alpstest\unityengine.dll" HashGuid="9c43a9ac-6b91-258f-32e2-fdd3823c7273" />
+    <ReferenceAssembly PathName="c:\users\thomas\downloads\alpstest\builds\alpstest\unityengine.networking.dll" HashGuid="e84cdf5e-3abb-0e17-72e8-086e29d8e32f" />
+    <ReferenceAssembly PathName="c:\users\thomas\downloads\alpstest\builds\alpstest\unityengine.ui.dll" HashGuid="6c3dc068-fc81-b272-5de1-46e5dc1fbe2d" />
+    <ReferenceAssembly PathName="c:\users\thomas\downloads\alpstest\builds\players\windowsphone81\arm\debug\unityenginedelegates.winmd" HashGuid="a758cda9-20bf-3e09-bb41-ffa443958e6c" />
+    <ReferenceAssembly PathName="c:\users\thomas\downloads\alpstest\builds\players\windowsphone81\arm\debug\unityengineproxy.dll" HashGuid="c68902b1-e655-bdea-7e4a-c1ebeeed34ec" />
+    <ReferenceAssembly PathName="c:\users\thomas\downloads\alpstest\builds\players\windowsphone81\arm\debug\unityplayer.winmd" HashGuid="3c25c20f-85e3-30bb-aafb-ba1498c439ca" />
+    <ReferenceAssembly PathName="c:\users\thomas\downloads\alpstest\builds\players\windowsphone81\arm\debug\winrtbridge.winmd" HashGuid="793f6dab-689f-74d7-2601-8e61f9cf9652" />
+    <ReferenceAssembly PathName="c:\users\thomas\downloads\alpstest\builds\alpstest\winrtlegacy.dll" HashGuid="d215b4da-7936-8697-b2de-b242df369d9a" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
